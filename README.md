@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bappi Saha</h1>
-<h3 align="center">A passionate sotware engineer.</h3>
+<h3 align="center">A passionate software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappi2097" alt="fennecdjay" /> </p>
 
