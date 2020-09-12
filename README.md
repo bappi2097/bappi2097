@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working on [CoronaBD](https://coronabd.xyz)
 
+- 👁️‍🗨️ Check My repo [repo](https://github.com/bappi2097?tab=repositories) <br/>
+- 🤝 if want some help contact me
 - 📫 Contact me **bappi35-2097@diu.edu.bd**
-
+<div align="center">
 <a href="https://bappi2097.github.io" align="center">
 <img align="center" src="https://img.shields.io/badge/Portfolio%20Website-29b6f6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website">
 </a>
@@ -19,20 +21,22 @@
 
 ### Languages and Tools:
 
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/laravel.svg" alt="laravel">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/php.png" alt="php">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sql.png" alt="sql">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/git.png" alt="git">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma-s.png" alt="bulma">
-&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/Bootstrap.png" alt="Bootstrap">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp" title="C++">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript" title="JavaScript">
+&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python" title="Python Basic">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/laravel.svg" alt="laravel" title="Laravel Framework">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/php.png" alt="php" title="PHP">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sql.png" alt="sql" title="SQL">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/git.png" alt="git" title="Git">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java" title="JAVA OOP">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma-s.png" alt="bulma" title="Bulma CSS Framework">
+<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/Bootstrap.png" alt="Bootstrap" title="Bootstrap Front-End Framework">
 
 <br/>
 
 <p align="center">
+
+### Social Network 📱
 
 &nbsp;&nbsp;<a href="https://dev.to/bappi2097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@bappi2097" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/12789602/bappi-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12789602" height="20" width="20" /></a>&nbsp;&nbsp;
@@ -40,3 +44,7 @@
 <a href="https://twitter.com/BappiSaha35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="BappiSaha35" height="20" width="20" /></a>&nbsp;&nbsp;
 
 </p>
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
