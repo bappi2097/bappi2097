@@ -7,11 +7,32 @@
 
 - 📫 Contact me **bappi35-2097@diu.edu.bd**
 
-[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-29b6f6?style=flat-square&logo=google-chrome&logoColor=white)](https://bappi2097.github.io/)
+<a href="https://bappi2097.github.io" align="center">
+<img align="center" src="https://img.shields.io/badge/Portfolio%20Website-29b6f6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website">
+</a>
 
 ## Language Usage ~ Status
 
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=bappi2097&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+
+<br/>
+### Languages and Tools:
+
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/html.png" alt="html"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/css.png" alt="css"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/gatsby.png" alt="gatsby"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sql.png" alt="sql"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/git.png" alt="git"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma.png" alt="bulma"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/Bootstrap.png" alt="Bootstrap"></code>
+
+<br/>
 
 <p align="center">
 
