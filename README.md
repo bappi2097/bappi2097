@@ -19,17 +19,14 @@
 ### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/html.png" alt="html"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/css.png" alt="css"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/gatsby.png" alt="gatsby"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/laravel.svg" alt="laravel"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/php.png" alt="php"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sql.png" alt="sql"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/git.png" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma.png" alt="bulma"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma-s.png" alt="bulma"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/Bootstrap.png" alt="Bootstrap"></code>
 
 <br/>
