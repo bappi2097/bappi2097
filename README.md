@@ -22,6 +22,7 @@
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp" title="C++">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript" title="JavaScript">
 &nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python" title="Python Basic">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/vue.js.png" alt="Vue.js" title="Vue.js">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/laravel.svg" alt="laravel" title="Laravel Framework">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/php.png" alt="php" title="PHP">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sql.png" alt="sql" title="SQL">
