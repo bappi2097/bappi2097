@@ -7,6 +7,8 @@
 
 - 📫 Contact me **bappi35-2097@diu.edu.bd**
 
+[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-29b6f6?style=flat-square&logo=google-chrome&logoColor=white)](https://bappi2097.github.io/)
+
 ## Language Usage ~ Status
 
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=bappi2097&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
