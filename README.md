@@ -31,6 +31,8 @@
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/java.png" alt="java" title="JAVA OOP">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/bulma-s.png" alt="bulma" title="Bulma CSS Framework">
 <img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/Bootstrap.png" alt="Bootstrap" title="Bootstrap Front-End Framework">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/graphql.svg" alt="GraphQL" title="GraphQL">
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/sass.svg" alt="SASS" title="SASS">
 
 <br/>
 
