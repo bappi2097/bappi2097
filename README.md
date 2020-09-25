@@ -44,10 +44,11 @@
 <a href="https://stackoverflow.com/users/12789602/bappi-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" title="Stack Overflow" alt="12789602" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/bappi.saha.75033/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" title="Bappi Saha" alt="Bappi Saha" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/BappiSaha35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="BappiSaha35" title="BappiSaha35" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/bappi35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bappi35" title="@bappi35" height="20" width="20" /></a>&nbsp;&nbsp;
 
 </p>
 
-### Show some ❤️ by starring some of my repositories!
+### Show some ❤️ by giving a :star: some of my repositories!
 
 <a href="https://www.buymeacoffee.com/bappi2097" target="_blank" style="height: 30px !important; width: 157px !important;" ><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 157px !important;" height="30px" width="157px"></a>
 
