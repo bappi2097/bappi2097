@@ -13,7 +13,7 @@
 
 ## Language Usage ~ Status ✌
 
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=bappi2097&layout=compact&theme=white&show_icons=true&hide_border=true&private=true)
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=bappi2097&layout=compact&theme=white&show_icons=true&hide_border=false&private=true)
 
 <br/>
 
