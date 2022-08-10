@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bappi Saha</h1>
 <!-- <h3 align="center">A passionate software engineer.</h3> -->
 
-- 🔭 I’m currently working on [CoronaBD](https://coronabd.xyz)
+- 🔭 I’m currently working on [BJIT](https://bjitgroup.com/)
 
 - 👁️‍🗨️ Check my [repo](https://github.com/bappi2097?tab=repositories) <br/>
 - 🤝 If want some help contact me 📧 **bappi35-2097@diu.edu.bd**
@@ -22,6 +22,8 @@
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/cpp.png" alt="cpp" title="C++">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/javascript.png" alt="javascript" title="JavaScript">
 &nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/python.png" alt="python" title="Python Basic">
+  
+&nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/react.js.png" alt="React.js" title="React.js">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/vue.js.png" alt="Vue.js" title="Vue.js">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/laravel.svg" alt="laravel" title="Laravel Framework">
 &nbsp;&nbsp;<img height="25" src="https://raw.githubusercontent.com/bappi2097/bappi2097/master/assets/php.png" alt="php" title="PHP">
