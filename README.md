@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bappi Saha</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bappi2097" alt="bappi2097" /></a> </p>
-
 - 🔭 I’m currently working on **Boi Lagbe**
 
 - 🌱 I’m currently learning **React Native**
