@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Boi Lagbe**
 
-- 🔭 I’m currently working on [BJIT](https://bjitgroup.com/)
-
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://bappi2097.github.io/](https://bappi2097.github.io/)
@@ -35,6 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bappi2097&show_icons=true&locale=en" alt="bappi2097" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bappi2097&" alt="bappi2097" /></p>
-
-### Show some ❤️ by giving a :star: some of my repositories!
-
