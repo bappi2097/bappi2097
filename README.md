@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bappi Saha</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Boi Lagbe**
+- 🔭 I’m currently working on Matrimony site
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [https://bappi2097.github.io/](https://bappi2097.github.io/)
 
-- 💬 Ask me about **React, Vue, Laravel, JS**
+- 💬 Ask me about **React, Vue, Node.js & Laravel**
 
 - 📫 How to reach me **bappi35-2097@diu.edu.bd**
 
