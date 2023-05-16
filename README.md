@@ -1,7 +1,7 @@
 # Hi there, I'm Bappi Saha! 👋
 
 ## About Me
-I am a self-motivated and enthusiastic software developer who is passionate about web development. With skills in JavaScript/TypeScript and PHP, I enjoy working with the latest technologies like React.js, Vue.js, Laravel, MySQL, MongoDB, and Firebase. I am a fast learner and always looking forward to learning and developing new skills. I enjoy spending my free time learning new technologies and building my own projects with them. I am always excited to work with innovative people.
+Experienced Full Stack Web Developer with a strong passion for building exceptional digital experiences. Proficient in JavaScript/TypeScript, PHP, and the latest technologies including React.js, Vue.js, Node.js, Laravel, MySQL, MongoDB, and Firebase. Constantly expanding my skill set and staying up-to-date with industry trends. I enjoy working on personal projects and collaborating with innovative teams to create impactful solutions. Let's connect and explore exciting opportunities where we can leverage our expertise to drive digital success.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
