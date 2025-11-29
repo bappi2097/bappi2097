@@ -31,10 +31,6 @@ Experienced Full Stack Web Developer with a strong passion for building exceptio
 - Co-founder at Tarunyer Joy, a charitable organization focused on helping the underprivileged by providing blankets, dry food, and aid during winter and flood seasons.
 - Member of Youth For You, actively contributing to initiatives such as providing educational materials to poor students and organizing tree plantation and blood donation drives.
 
-## GitHub Stats
-![Bappi Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=bappi2097&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bappi2097&layout=compact&theme=dark)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bappi-saha/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:bappi35-2097@diu.edu.bd)
